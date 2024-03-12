@@ -20,8 +20,8 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Jigar Sable";
-            $("#favicon").attr("href", "/assets/images/favicon.png");
+            document.title = "Projects | Portfolio Saurabh Rai";
+            $("#favicon").attr("href", "/assets/images/hero.png");
         }
         else {
             document.title = "Come Back To Portfolio";
