@@ -14,7 +14,7 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 ## 📌 Sneak Peek of Main Page 🙈 :
 <img width="1440" alt="portfolio1" src="https://github.com/Raisaab02/portfolio/assets/100120336/0f23b85f-a8b9-4852-8973-998a2bbfcc91">
 
-h2>📬 Contact</h2>
+<h2>📬 Contact</h2>
 
 
 If you want to contact me, you can reach me through below handles.
